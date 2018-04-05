@@ -6,7 +6,7 @@ A puzzle game made just to learn
 <h2> How to run the program </h2>
 
 <body>
-javac fifteenpuzzle.java
-appletviewer fifteenpuzzle.html
+<li> javac fifteenpuzzle.java
+<li> appletviewer fifteenpuzzle.html
   </body>
   <h1> ENJOY!!.. Happy programming </h1>
