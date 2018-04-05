@@ -1,5 +1,5 @@
 # fifteenpuzzle
-A puzzle game made just to learn
+A puzzle game made just to learn.
 
 <p> <strong> There are some minute errors in the game so dont clone this repository for your project if you are planning to do so. </strong> </p>
 
